@@ -1,4 +1,4 @@
-# Bankist App, the gateway to modern banking solutions
+# Bankist App, the gateway to modern banking
 
 **How does it work?**
 
